@@ -11,6 +11,12 @@ namespace WebApplication1
     public partial class Startup
     {
 ローカルブランチ２
+ローカルブランチ２
+ローカルブランチ２
+ローカルブランチ２
+ローカルブランチ２
+ローカルブランチ２
+ローカルブランチ２
         {
         }
     }
